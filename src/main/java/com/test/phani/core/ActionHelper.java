@@ -1,4 +1,4 @@
-package com.qualitest.core;
+package com.test.phani.core;
 
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;

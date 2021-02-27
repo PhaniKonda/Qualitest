@@ -1,9 +1,9 @@
-package com.qualitest.pagerepository;
+package com.test.phani.pagerepository;
 
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import com.qualitest.core.ActionHelper;
-import com.qualitest.core.Helper;
+import com.test.phani.core.ActionHelper;
+import com.test.phani.core.Helper;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;

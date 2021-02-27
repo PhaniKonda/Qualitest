@@ -1,6 +1,6 @@
-package com.qualitest.pagerepository;
+package com.test.phani.pagerepository;
 
-import com.qualitest.core.Helper;
+import com.test.phani.core.Helper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 

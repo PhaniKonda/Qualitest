@@ -1,4 +1,4 @@
-package com.qualitest.core;
+package com.test.phani.core;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

@@ -1,4 +1,4 @@
-package com.qualitest;
+package com.test.phani;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
